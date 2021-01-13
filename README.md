@@ -1,4 +1,6 @@
 # STAT3612 - Statistical Machine Learning
+*instructor: Dr. Aijun Zhang*
+
 This is the collection of notebooks done in the course; practicing few ML techniques with some toy datasets.
 Some of the assignments let me practice the lecture contents or play around the FICO dataset to finally do the course project.
 
